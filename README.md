@@ -1,2 +1,2 @@
-# Responsive-Website-Design
+# Responsive-Webpage
 Simple HTML ,CSS,  JS  Responsive. Website
